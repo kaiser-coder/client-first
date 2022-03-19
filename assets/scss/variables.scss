@@ -1,0 +1,56 @@
+$font-sizes: (
+   "1": 64px,
+   "2": 58px,
+   "3": 48px,
+   "4": 40px,
+   "5": 32px,
+   "6": 20px
+);
+
+$black: #1E1B1B;
+$primary: #FF6433;
+$secondary: #661CE7;
+$mint: #00D289;
+$steelgrey: #E2E6E9;
+$lightgrey: #F2F2F2;
+$white: #FFFFFF;
+
+@font-face {
+   font-family: "Manrope Bold";
+   src: url("../fonts/Manrope-Bold.ttf")
+};
+
+@font-face {
+   font-family: "Manrope ExtraBold";
+   src: url("../fonts/Manrope-ExtraBold.ttf")
+};
+
+@font-face {
+   font-family: "Manrope ExtraLight";
+   src: url("../fonts/Manrope-ExtraLight.ttf");
+};
+
+@font-face {
+   font-family: "Manrope ExtraLight";
+   src: url("../fonts/Manrope-Light.ttf");
+};
+
+@font-face {
+   font-family: "Manrope Light";
+   src: url("../fonts/Manrope-Light.ttf");
+};
+
+@font-face {
+   font-family: "Manrope Medium";
+   src: url("../fonts/Manrope-Medium.ttf");
+};
+
+@font-face {
+   font-family: "Manrope Regular";
+   src: url("../fonts/Manrope-Regular.ttf");
+};
+
+@font-face {
+   font-family: "Manrope SemiBold";
+   src: url("../fonts/Manrope-SemiBold.ttf");
+};

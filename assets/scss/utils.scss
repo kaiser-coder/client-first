@@ -1,0 +1,19 @@
+* {
+   box-sizing: border-box;
+}
+
+.flex {
+   display: flex;
+   gap: 10px;
+}
+
+.container {
+   max-width: 80vw;
+   margin-inline: auto;
+}
+
+@each $name, $value in $font-sizes {
+   .fs-#{$name} {
+      font-size: $value;
+   }
+}
