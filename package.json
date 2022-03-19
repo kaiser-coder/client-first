@@ -1,0 +1,10 @@
+{
+  "name": "client-first",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kaiser-coder <miarintsoajohary@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}
